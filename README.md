@@ -11,6 +11,8 @@ You will be able to:
 - Build a linear regression model with interactions and polynomial features 
 - Use feature selection to obtain the optimal subset of features in a dataset
 
+# Check the index.ipynb file for my workings
+
 ## Let's Get Started!
 
 Below we import all the necessary packages for this lab.
